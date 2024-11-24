@@ -2,7 +2,6 @@
 
 Bienvenue sur le dépôt GitHub officiel de **Cactusen**, votre partenaire de confiance en ingénierie informatique basé à Saly Portudal, Sénégal.
 
-![Cactusen Logo](https://www.cactusen.com/logo.png) 
 
 ## 🌐 À Propos de Nous
 
